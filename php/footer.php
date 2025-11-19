@@ -1,5 +1,5 @@
 <?php
-// footer.php - common page footer
+// footer.php 
 ?>
 </div> <!-- /.container -->
 </body>

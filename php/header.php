@@ -1,5 +1,5 @@
 <?php
-// header.php - common page header
+// header.php 
 ?>
 <!DOCTYPE html>
 <html>
